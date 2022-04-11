@@ -31,6 +31,8 @@ Based off our results the suspension coils do not meet design specifications. Th
 
 In the final part of our analysis we used the t-test function to dtermine if the PSI across all manufacturing lots is statistially different fromthe population mean of 1,500 pounds per square inch.
 
+![tTests](https://user-images.githubusercontent.com/95730890/162679002-b5f482b9-6fa2-46b4-9b83-7e0353afc6da.PNG)
+
 ### All Lots Test
 The t-test for all of the lots gave us a p-value of 0.06028, which is higher than the value of statistical significance, we are unable to reject the null hypothese.
 
