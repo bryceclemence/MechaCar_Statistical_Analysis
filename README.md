@@ -47,7 +47,9 @@ The t-test for lot three was 0.04168 which is less than the value of statistical
 
 # Study Design: MechaCar vs. Competition
 A case study that we can perform to determine how the MechaCar is valued against its competition is looking at its value over time. For this analysis we can look at repair costs, especially when it get's up to a higher mileage, frequency of breakdowns, average amount of miles it can max out at before rendering it "totalled" for simple repairs.
+
 The null hypothesis would be that the MechaCar is a better quality car, with its MechaCapabilities, and MechaPerformanceEnhancedTechnologies.
-The tests we would performs in the stdy would be a linear regression analysis on the mentioned variables above.
+
+The tests we would performs in the study would be a linear regression analysis on the mentioned variables above.
 To run these tests we would need data on how many times the MechaCar needed routine maintenance and serious, non-routine maintenance, on average how often the MechaCar broke down or was in a state where it was not drivable, and on average how many miles can be put into the MechaCar before it constantly needs repairs, and the repairs start to cost more than the cars actual worth.
 
